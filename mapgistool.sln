@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mapgistool", "mapgistool\mapgistool.vcxproj", "{188253B5-BDFC-43E7-9170-207F27EEBFCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		CD_ROM|x64 = CD_ROM|x64
+		CD_ROM|x86 = CD_ROM|x86
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		DVD-5|Any CPU = DVD-5|Any CPU
+		DVD-5|x64 = DVD-5|x64
+		DVD-5|x86 = DVD-5|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+		SingleImage|Any CPU = SingleImage|Any CPU
+		SingleImage|x64 = SingleImage|x64
+		SingleImage|x86 = SingleImage|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{188253B5-BDFC-43E7-9170-207F27EEBFCF}.CD_ROM|Any CPU.ActiveCfg = Release|x64
+		{188253B5-BDFC-43E7-9170-207F27EEBFCF}.CD_ROM|Any CPU.Build.0 = Release|x64
+		{188253B5-BDFC-43E7-9170-207F27EEBFCF}.CD_ROM|x64.ActiveCfg = Release|x64
+		{188253B5-BDFC-43E7-9170-207F27EEBFCF}.CD_ROM|x64.Build.0 = Release|x64
+		{188253B5-BDFC-43E7-9170-207F27EEBFCF}.CD_ROM|x86.ActiveCfg = Release|Win32
+		{188253B5-BDFC-43E7-9170-207F27EEBFCF}.CD_ROM|x86.Build.0 = Release|Win32
+		{188253B5-BDFC-43E7-9170-207F27EEBFCF}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{188253B5-BDFC-43E7-9170-207F27EEBFCF}.Debug|x64.ActiveCfg = Debug|x64
+		{188253B5-BDFC-43E7-9170-207F27EEBFCF}.Debug|x64.Build.0 = Debug|x64
+		{188253B5-BDFC-43E7-9170-207F27EEBFCF}.Debug|x86.ActiveCfg = Debug|Win32
+		{188253B5-BDFC-43E7-9170-207F27EEBFCF}.Debug|x86.Build.0 = Debug|Win32
+		{188253B5-BDFC-43E7-9170-207F27EEBFCF}.DVD-5|Any CPU.ActiveCfg = Release|x64
+		{188253B5-BDFC-43E7-9170-207F27EEBFCF}.DVD-5|Any CPU.Build.0 = Release|x64
+		{188253B5-BDFC-43E7-9170-207F27EEBFCF}.DVD-5|x64.ActiveCfg = Debug|x64
+		{188253B5-BDFC-43E7-9170-207F27EEBFCF}.DVD-5|x64.Build.0 = Debug|x64
+		{188253B5-BDFC-43E7-9170-207F27EEBFCF}.DVD-5|x86.ActiveCfg = Debug|Win32
+		{188253B5-BDFC-43E7-9170-207F27EEBFCF}.DVD-5|x86.Build.0 = Debug|Win32
+		{188253B5-BDFC-43E7-9170-207F27EEBFCF}.Release|Any CPU.ActiveCfg = Release|Win32
+		{188253B5-BDFC-43E7-9170-207F27EEBFCF}.Release|x64.ActiveCfg = Release|x64
+		{188253B5-BDFC-43E7-9170-207F27EEBFCF}.Release|x64.Build.0 = Release|x64
+		{188253B5-BDFC-43E7-9170-207F27EEBFCF}.Release|x86.ActiveCfg = Release|Win32
+		{188253B5-BDFC-43E7-9170-207F27EEBFCF}.Release|x86.Build.0 = Release|Win32
+		{188253B5-BDFC-43E7-9170-207F27EEBFCF}.SingleImage|Any CPU.ActiveCfg = Release|x64
+		{188253B5-BDFC-43E7-9170-207F27EEBFCF}.SingleImage|Any CPU.Build.0 = Release|x64
+		{188253B5-BDFC-43E7-9170-207F27EEBFCF}.SingleImage|x64.ActiveCfg = Release|x64
+		{188253B5-BDFC-43E7-9170-207F27EEBFCF}.SingleImage|x64.Build.0 = Release|x64
+		{188253B5-BDFC-43E7-9170-207F27EEBFCF}.SingleImage|x86.ActiveCfg = Release|Win32
+		{188253B5-BDFC-43E7-9170-207F27EEBFCF}.SingleImage|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
